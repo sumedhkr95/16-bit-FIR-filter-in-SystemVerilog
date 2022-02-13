@@ -1,3 +1,3 @@
-# Carry-Lookahead-Adder
+# 16-bit FIR filter with 4 taps
 
-A carry-lookahead-adder (parameterized) with 4-bit propagate and generate sub-block is designed.
+A 16-bit FIR filter with 4 taps is designed. The design comprises carry-lookahead adders.
